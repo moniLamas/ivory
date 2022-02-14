@@ -215,7 +215,8 @@ body.dark {
 }
 
 .experience__description {
-  font-size: 0.8rem;
+  font-size: 0.9rem;
+  line-height: 1.6rem;
   margin-bottom: 1.5em;
 }
 

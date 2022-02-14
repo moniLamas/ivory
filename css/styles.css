@@ -84,6 +84,7 @@ body.dark {
   width: 20px;
   height: 20px;
   border: 1px solid var(--text-color);
+  border-radius: var(--border-radius);
   background-color: var(--primary-color);
   cursor: pointer;
 }

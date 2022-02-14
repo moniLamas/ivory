@@ -171,6 +171,11 @@ body.dark {
   line-height: 1.6;
 }
 
+.knowlege__item {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
 @media screen and (min-width: 720px) {
   .card--project {
     display: grid;

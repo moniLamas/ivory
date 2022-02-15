@@ -145,6 +145,7 @@ body.dark {
   min-width: 320px;
   border-radius: var(--border-radius);
   overflow: hidden;
+  height: 340px;
 }
 
 .card__header {
@@ -249,12 +250,12 @@ body.dark {
   justify-content: space-between;
   margin: 0.5em 0;
   font-size: 0.6rem;
-  width: 275px;
+  width: 350px;
 }
 
 @media screen and (min-width: 720px) {
   .project__tags {
-    width: 325px;
+    width: 350px;
     font-size: 0.8em;
   }
 }

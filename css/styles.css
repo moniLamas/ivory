@@ -141,6 +141,12 @@ body.dark {
   border-radius: var(--border-radius);
 }
 
+.card__image-profile {
+  min-width: 320px;
+  border-radius: var(--border-radius);
+  overflow: hidden;
+}
+
 .card__image-container {
   min-width: 320px;
   border-radius: var(--border-radius);
